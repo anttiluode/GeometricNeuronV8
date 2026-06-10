@@ -45,13 +45,15 @@ The geometric\_neuron\_v8.py engine includes a head-to-head empirical validation
 
 Dependencies:
 
-Bash  
+```Bash  
 pip install torch numpy matplotlib
+```
 
 Run the v8 head-to-head test:
 
-Bash  
+```Bash  
 python geometric\_neuron\_v8.py
+```
 
 ## **📜 The Ethos**
 
